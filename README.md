@@ -1,5 +1,3 @@
-<div id="logo" style="text-align: center !important;"><img src="https://i.ibb.co/nP0Kbmq/ICONE-60-X60-PX.png"></img></div>
-
 # Introduction to Gibyz
 
 Gibyz is an NFT project where its owner can use it for benefits and exclusivity in the metaverse and in real life in partner clubs among others,
